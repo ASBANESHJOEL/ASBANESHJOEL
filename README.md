@@ -1,9 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4CAF50&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Asbanesh+Joel+👋;Python+Developer+%7C+ML+Enthusiast+%7C+Problem+Solver;Writing+Clean+Code+and+Growing+Everyday+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=4CAF50&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Asbanesh+Joel+👋;Python+Developer+%7C+ML+Enthusiast;Problem+Solver+%7C+Continuous+Learner+🚀">
 </p>
-
----
 
 ## 🌟 About Me  
 
