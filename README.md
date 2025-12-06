@@ -50,10 +50,12 @@
 ## 📌 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASBANESHJOEL&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASBANESHJOEL&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ASBANESHJOEL&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ASBANESHJOEL&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ## ✨ Fun Fact  
 
