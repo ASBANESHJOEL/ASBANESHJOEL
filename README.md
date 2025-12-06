@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-🚀 *Thanks for visiting — let's learn, build and grow together 💚*
+🚀 Thanks for visiting — let's learn, build and grow together 💚
 </p>
