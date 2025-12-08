@@ -50,7 +50,10 @@
 ## 📌 GitHub Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ASBANESHJOEL&theme=transparent&hide_border=true&background=30%2C0D1117FF%2C0D111756&border_radius=15&currStreakLabel=00eaff&sideLabels=00eaff&currStreakNum=00eaff&sideNums=00eaff" height="165"/>
+  <img 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ASBANESHJOEL&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" 
+       height="170"
+/>
 </p>
 
 <p align="center">
