@@ -50,12 +50,13 @@
 ## 📌 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ASBANESHJOEL&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=ASBANESHJOEL&theme=transparent&hide_border=true&background=30%2C0D1117FF%2C0D111756&border_radius=15&currStreakLabel=00eaff&sideLabels=00eaff&currStreakNum=00eaff&sideNums=00eaff" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,vscode,kaggle" />
+  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
 </p>
+
 
 ## ✨ Fun Fact  
 
