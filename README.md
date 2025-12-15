@@ -49,8 +49,12 @@
 
 
 ## 📌 GitHub Stats
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASBANESHJOEL&theme=tokyo-night)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASBANESH-JOEL&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,github,vscode" />
